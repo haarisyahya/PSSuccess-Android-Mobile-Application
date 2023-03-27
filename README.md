@@ -2,9 +2,7 @@
 
 When the app is launched, note the ‘Splash Screen’ displaying the app logo + theme.
 
-![image](https://user-images.githubusercontent.com/80646420/228089948-a3239019-7b28-4a0b-8de3-cad99476f2d0.png)
-
-*The associated code is under ‘MainActivity.java’ and ‘activity_main.xml’
+![image](https://user-images.githubusercontent.com/80646420/228089948-a3239019-7b28-4a0b-8de3-cad99476f2d0.png)*The associated code is under ‘MainActivity.java’ and ‘activity_main.xml’
 After the five seconds, the user is redirected to the app’s home screen (‘HomeActivity.java’/’activity_home.xml’), where they are prompted to enter a location:
 
 ![image](https://user-images.githubusercontent.com/80646420/228089970-ad0041c0-addd-4acf-8dc6-84a90a0fa6fe.png)
