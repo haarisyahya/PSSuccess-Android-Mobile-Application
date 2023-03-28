@@ -4,6 +4,8 @@ This application will help prospective students assess their options as they loo
 application will provide a list of universities and colleges in the area. Additionally, their location will be used to provide
 them with accurate program information. When the app is launched, note the ‘Splash Screen’ displaying the app logo + theme. More functionalities need to be added to the application as the original idea was to provide and compare programs throughout Canada based on their acceptance rate, GPA cutoff and employment rate.
 
+
+
 ![image](https://user-images.githubusercontent.com/80646420/228089948-a3239019-7b28-4a0b-8de3-cad99476f2d0.png)
 
 *The associated code is under ‘MainActivity.java’ and ‘activity_main.xml’
