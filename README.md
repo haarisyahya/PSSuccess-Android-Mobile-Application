@@ -1,5 +1,12 @@
 # PSSuccess-Android-Mobile-Application
 
+This application will help prospective students assess their options as they look to
+go/return to school. The user will enter their program of interest in a search field and the
+application will compare similar programs throughout universities and colleges. The
+application will also use acceptance rates to compare acceptance probability between
+programs from different educational institutions based on the users entered GPA. This
+will help the user reach a decision. Additionally, their location will be used to provide
+them with accurate program information.
 When the app is launched, note the ‘Splash Screen’ displaying the app logo + theme.
 
 ![image](https://user-images.githubusercontent.com/80646420/228089948-a3239019-7b28-4a0b-8de3-cad99476f2d0.png)
